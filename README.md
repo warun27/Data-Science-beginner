@@ -1,1 +1,1 @@
-# Data-Science-Beginner
+# Data-Science-Beginner-Logistic-Regression
